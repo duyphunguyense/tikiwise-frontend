@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Axios Interceptor Instance
 const AxiosInstance = axios.create({
-    baseURL: "https://tikiwise-backend.vercel.app"
+    baseURL: "https://tikiwise-backend.onrender.com"
 });
 
 // Add a request interceptor
