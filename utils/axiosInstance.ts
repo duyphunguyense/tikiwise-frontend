@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Axios Interceptor Instance
 const AxiosInstance = axios.create({
-    baseURL: "http://localhost:8000"
+    baseURL: "https://vercel.com/duys-projects-3838500a/tikiwise-backend/63g4yTXXjGnLLueECRB2t5MvQBED"
 });
 
 // Add a request interceptor
